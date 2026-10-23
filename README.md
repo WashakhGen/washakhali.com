@@ -3,6 +3,8 @@
 **AI/ML Engineer** · LLMs · RAG · Agents · Voice · Inference
 Islamabad, Pakistan (PKT, UTC+5) · working remotely · open to full-time and freelance roles
 
+**Portfolio:** [washakhalicom.vercel.app](https://washakhalicom.vercel.app)
+
 I build production AI systems, not notebooks. I've run inference infrastructure for diffusion-based image, video, audio and 3D generation, scaling to 300,000+ generations with parallel multi-GPU inference, GPU memory management and model-layer caching. I also build LLM systems: RAG pipelines, tool-calling and MCP agents, voice agents, and structured evaluation. I own the work end to end, from model development through inference optimization to production deployment.
 
 ## Experience
