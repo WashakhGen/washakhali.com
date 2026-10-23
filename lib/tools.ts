@@ -1,0 +1,32 @@
+/** Logos for the two marquee rows (simple-icons slugs, shown in brand colour). */
+export const marqueeRows: string[][] = [
+  [
+    "claude",
+    "googlegemini",
+    "meta",
+    "mistralai",
+    "huggingface",
+    "langchain",
+    "ollama",
+    "perplexity",
+    "openrouter",
+    "deepgram",
+    "elevenlabs",
+    "n8n",
+  ],
+  [
+    "python",
+    "fastapi",
+    "pytorch",
+    "nvidia",
+    "docker",
+    "redis",
+    "postgresql",
+    "supabase",
+    "qdrant",
+    "react",
+    "googlecloud",
+    "kubernetes",
+    "modal",
+  ],
+];

@@ -1,0 +1,10 @@
+node_modules/
+.next/
+next-env.d.ts
+*.tsbuildinfo
+.DS_Store
+.env*
+out/
+
+# Local notes, not published
+PORTFOLIO_PLAN.md
